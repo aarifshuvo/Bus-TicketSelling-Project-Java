@@ -1,0 +1,1 @@
+CREATE TABLE `automation_db`.`employees_table` ( `Employee_ID` INT NOT NULL , `Emp_Name` VARCHAR NOT NULL , `Emp_UserName` VARCHAR NOT NULL , `Emp_Email` VARCHAR NOT NULL , `Emp_Password` VARCHAR NOT NULL , `Emp_PhoneNumber` VARCHAR NOT NULL ) ENGINE = MyISAM;
